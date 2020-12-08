@@ -1,0 +1,17 @@
+{
+ "accommodation": [
+  {
+   "image1": "motel.jpg",
+   "image": "hotel.jpg",
+   "description": "Set along a main road, this casual hotel is a minute’s walk from Hagley Park’s walking trails and golf course, and 2 km from the Christchurch Botanic Gardens",
+
+   "button": "Book Now"
+  },
+  {
+   "image1": "house.jpg",
+   "image": "hostel.jpg",
+   "description": "Set along a main road, this casual hotel is a minute’s walk from Hagley Park’s walking trails and golf course, and 2 km from the Christchurch Botanic Gardens",
+   "button": "Book Now"
+  }
+ ]
+}

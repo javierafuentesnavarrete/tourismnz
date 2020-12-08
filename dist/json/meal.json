@@ -1,0 +1,16 @@
+{
+ "meal": [
+  {
+   "imageId": "sushi.jpg",
+   "id": "Sushi",
+   "description": "Sushi is a Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, often raw, vegetables, and occasionally tropical fruits",
+   "button": "Choose me"
+  },
+  {
+   "imageId": "burger.jpg",
+   "id": "Chicken Burger",
+   "description": " chicken sandwich is a sandwich that typically consists of boneless, skinless chicken breast served between slices of bread, with pickles, on a bun, or on a roll. Variations on the “chicken sandwich”.",
+   "button": "Choose me"
+  }
+ ]
+}

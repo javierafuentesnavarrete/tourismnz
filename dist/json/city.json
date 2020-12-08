@@ -1,0 +1,13 @@
+{
+ "cities": [
+  {
+   "id": "Auckland"
+  },
+  {
+   "id": "Wellington"
+  },
+  {
+   "id": "Queenstown"
+  }
+ ]
+}

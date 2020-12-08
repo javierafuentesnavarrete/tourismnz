@@ -1,0 +1,27 @@
+{
+ "location": [
+  {
+   "accommodation": "Accommodation"
+  },
+  {
+   "id": 1,
+   "accommodation": "Hotel",
+   "price": "$157/per night"
+  },
+  {
+   "id": 2,
+   "accommodation": "Hostel",
+   "price": "$30/per night"
+  },
+  {
+   "id": 3,
+   "accommodation": "Motel",
+   "price": "$90/per night"
+  },
+  {
+   "id": 4,
+   "accommodation": "House",
+   "price": "$240/per night"
+  }
+ ]
+}

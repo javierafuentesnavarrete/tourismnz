@@ -1,0 +1,32 @@
+$btn-color: #0599b2;
+$background-container: #cbcacad9;
+
+@mixin btn {
+ border-radius: 5px;
+ border: $btn-color;
+ background-color: $btn-color;
+ font-size: 1.3rem;
+ padding: 0.5rem 2.5rem;
+ color: White;
+ cursor: pointer;
+ width: 40%;
+ display: flex;
+ justify-content: center;
+}
+
+@mixin container {
+}
+
+@mixin inputdesign {
+ border: 1px solid white;
+ -webkit-appearance: none;
+ -moz-appearance: none;
+ text-indent: 1px;
+ text-overflow: "";
+ color: #707070;
+ font-size: 15px;
+ border-radius: 5px;
+ padding: 10px;
+ box-shadow: none;
+ background-color: white;
+}

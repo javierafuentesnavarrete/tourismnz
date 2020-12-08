@@ -1,0 +1,14 @@
+{
+ "price": [
+  {
+   "hotelprice": "$157/per night"
+  },
+  { "hostelprice": "$30/per night" },
+  {
+   "motelprice": "$90/per night"
+  },
+  {
+   "houseprice": "$240/per night"
+  }
+ ]
+}
